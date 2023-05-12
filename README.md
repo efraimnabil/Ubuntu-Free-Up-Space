@@ -8,6 +8,7 @@ git clone https://github.com/efraimnabil/Ubuntu-Free-Up-Space.git
 
 ## Usage
 ```bash
+chmod u+x run
 sudo ./run
 ```
 
