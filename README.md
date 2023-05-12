@@ -4,6 +4,7 @@ Bash script to free up space on ubuntu.
 ## clone
 ```bash
 git clone https://github.com/efraimnabil/Ubuntu-Free-Up-Space-.git
+```
 
 ## Usage
 ```bash
